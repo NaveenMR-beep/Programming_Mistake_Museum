@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+build/
+dist/
+backups/
+*.db
+*.log
+*.pyc
+.env
+.venv/
+venv/
+test.txt
+file_test.py
